@@ -1,5 +1,5 @@
 
-                                ML take home exercice
+                                Waffers visual inspection : Image classification 
 
 - Data available on : 
 
